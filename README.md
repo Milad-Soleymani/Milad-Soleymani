@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @MiladCoderSoli
-- 👀 I’m interested in Programming and computer technolorgies
-- 🌱 I’m currently learning next js
-- 💞️ I’m looking to collaborate on freelancer
-- 📫 How to reach me instagram with id:web.coder2
-- ⚡ Fun fact: if code work don't change it
+# Milad Coder Is Here
+
+### I'have web development and technolorgy knowlrdge
+
+
+#### - 🌱 I’m currently learning next js
+
+#### - 📫 reach me in instagram with id:web.coder2
+
+#### -⚡ Fun fact: if code work don't change it
