@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **miladcoder1390@gmail.com**
+- 📫 How to reach me **miladcoder1390@gmail.com**  OR  **miladcoder0@gmail.com**
 
 - ⚡ Fun fact **Do not touch the working code**
 
