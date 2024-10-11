@@ -1,4 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/152706961?v=4" align="left" style="width: 100%" />  
+   <h1 align='center'>Hi 👋 I'm Milad Soleymani </h1>
+
+<img src="https://avatars.githubusercontent.com/u/152706961?v=4" align="left" style="width: 100px" />  
   
 
 ### <div align="center">I'm Milad 🗿, a Mid-level full-stack freelance developer 👨‍💻 </div>  
@@ -84,7 +86,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
@@ -101,7 +102,6 @@
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
