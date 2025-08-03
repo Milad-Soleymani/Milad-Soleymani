@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Milad Soleymani Mid-level Web Developer .<br>I'm from Iran and speak Persian and I can speak English and A little Turkish too.<br>
+I'm Milad Soleymani Mid-level Web Developer.<br>I'm from Iran and speak Persian and I can speak English and A little Turkish too.<br>
 
 
 ## 🌐 Socials:
