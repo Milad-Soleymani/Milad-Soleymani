@@ -1,5 +1,5 @@
 # 💫 About Me:
-Coding ...
+Coding & learning ...
 
 
 # 💻 Tech Stack:
